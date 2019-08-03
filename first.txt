@@ -1,2 +1,4 @@
 Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 •ÏX‚ğ‰Á‚¦‚Ü‚µ‚½I
+¿git add
+¿git commit
